@@ -1,4 +1,4 @@
-## Hi, ich bin Tien 👋
+## Hi, ich bin Tien 
 
 Schüler der Höheren Berufsfachschule Fachrichtung Informationstechnik in Mainz,
 mit dem Ziel, technisches und ökonomisches Denken zu verbinden statt zu trennen.
