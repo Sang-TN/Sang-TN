@@ -2,7 +2,7 @@
 
 I'm an IT student in Mainz, Germany, currently in a two-year program in
 information technology (Höhere Berufsfachschule). I'm most interested in
-the space where software engineering meets finance and I'm also passionate about physics.
+the space where software engineering meets finance, and I'm also passionate about physics.
 
 **What I'm working on**
 - A real-time market data pipeline in Java and Apache Kafka
@@ -48,14 +48,28 @@ Ingests market data, computes technical indicators and has a local AI model asse
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+### Experience
+
+**IT Internship** · sapite GmbH  
+<sub>Oct 2026 – Nov 2026 · Java & Apache Kafka </sub>
+
+**Virtual Internship** · Accenture  
+<sub>Oct 2026 · HTML, CSS, JavaScript</sub>
+
+**Job Shadowing** · EY  
+<sub>Jun 2026 · Tax advisory</sub>
+
+**School Internship** · SAP SE  
+<sub>Apr 2026 · S/4HANA, ABAP</sub>
+
+**Virtual Job Simulations on Forage** · J.P. Morgan, Goldman Sachs, Mastercard  
+<sub>Software engineering, banking operations & risk management</sub>
+
 ### Finance
 
 ![Bloomberg](https://img.shields.io/badge/Bloomberg_BFF_&_BMC-000000?style=flat&logo=bloomberg&logoColor=white)
 
-Independent market analysis and portfolio management ·
-Virtual job simulations at J.P. Morgan, Mastercard and Goldman Sachs ·
-Virtual internship at Accenture ·
-School internship at SAP SE · Job shadowing day at EY
+Managing my own ETF portfolio and doing independent market analysis.
 
 ---
 
