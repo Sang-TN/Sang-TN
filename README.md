@@ -5,15 +5,16 @@ information technology (Höhere Berufsfachschule). I'm most interested in
 the space where software engineering meets finance, and I'm also passionate about physics.
 
 **What I'm working on**
-- A real-time market data pipeline in Java and Apache Kafka
 - A C++ simulation of two colliding galaxies for my final project at school
+- Learning PostgreSQL in more depth
 
 ### Projects
 
 **[kafka-market-stream](https://github.com/Sang-TN/kafka-market-stream)**
-Real-time price data: a producer generates prices, independent consumers analyze them live.  
+Real-time price data: a producer generates prices, independent consumers analyze them live and store them in PostgreSQL.  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **[fintech-ai-screener](https://github.com/Sang-TN/fintech-ai-screener)**
