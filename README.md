@@ -11,7 +11,7 @@ the space where software engineering meets finance, and I'm also passionate abou
 ### Projects
 
 **[kafka-market-stream](https://github.com/Sang-TN/kafka-market-stream)**
-Real-time price data: a producer generates prices, consumers analyze them live and store them in PostgreSQL.  
+Real-time price data: a producer generates prices, independent consumers analyze them live and store them in PostgreSQL.  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
